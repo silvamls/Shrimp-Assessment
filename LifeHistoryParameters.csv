@@ -1,0 +1,113 @@
+Especie,Linf(mm)TL,Linf(mm)CL,Winf(g),K(ano),L50(mm)CL,L50(mm)TL,Lr(mm)TL,Lr(mm)CL,Lc(mm)CL,Lc(mm)TL,T0,Tmáx,F,M,Z,a(w),b(w),a(L),b(L),Autor,Local,Regiao
+F. subtilis,147.9475309,33.4,17.91455451,1.1,22,97.6829806,124.1380071,28,13,58.00044092,,,,,,0.0002,3.25,,,"Carvalho, 2015",Pará/Norte,N
+F. subtilis,201.739418,45.6,49.27943664,1.28,,,90,18,20,88.86463845,,2.11,3.1,2.15,5.25,,,0.1545,0.2268,"Silva et al., 2016",Nordeste,NE
+F. subtilis,,,,,,,,,,,,,2.36,1.85,4.21,,,,,"Shepherd et al., 2020",Guiana,
+F. subtilis,191.1574074,43.2,41.33825813,1.1,25.6,113,,,,,,,2.36,2,4.36,,,,,"Isaac et al., 1992",Norte,N
+F. subtilis,218,47.96,43.6,1.27,28.5,142.6,90,19.8,23.8,133.6,,2.5,2.3,2.82,5.12,0.00000232,3.2,,,"Aragão, 2012",Norte,N
+F. subtilis,189.3,37.86,37.86,2.2,15.47,77.35,,,,,-0.55,2.06,,,,,,,,"Santos et al., 2020",Sergipe/NE,NE
+F. subtilis,,,,,19.8,87.98280423,,,,,,,,2.16,,,,,,"Aragão et al., 2005",Norte,N
+F. subtilis,,,,,16.6,83,,,,,,,,,,,,,,"Perez-Farfante, 1969",Norte,N
+F. subtilis,,,,,22.8,101.2103175,,,,,,,,,,,,,,"Porto & Santos, 1996",Maranhão/Nordeste,NE
+F. subtilis,,,,,25.4,112.6741623,,,,,,,,,,,,,,"Silva et al., 2016",Pernambuco/Nordeste,NE
+F. subtilis,,,,,22,97.6829806,,,,,,,,,,,,,,"Martinelli, 2005",Norte,N
+F. subtilis,,,,,29.1,128.9880952,,,,,,,,,,,,,,"Cintra et al., 2004",Norte,N
+F. subtilis,,,,,16,71.22795414,,,,,,,,,,,,,,"Santos & Freitas, 2002",Pitimbu/PB,NE
+F. subtilis,,,,,23.7,105.1785714,,,,,,,,,,,,,,"Coelho & Santos, 1993",tamandaré/ PE,NE
+F. subtilis,,,,,15.5,69.02336861,,,,,,,,,,,,,,"Santos, 2000",Alagoas/ PE,NE
+F. paulensis,211.43,47.8,70.7422968,1.96,27.5,121.9334215,60.2,13.5,,,-0.8,2.3,,,,,,,,"Lopes, 2012",Baía de santos/SP,SE
+F. brasiliensis,212,52.5,84,1.6,26,115.3196649,55,12.3,,,-1.94,2.72,,,,,,,,"Lopes, 2012",Baía de santos/SP,SE
+F. paulensis,124.13,28,13.47853137,0.2,,,75,16.5,,,,,,,,,,0,0.2078,"Branco & Verani, 1998",Santa Catarina/Sul,S
+F. brasiliensis,224,56.2,86,1.24,,,,,18.2,83,,2,4.7,1.8,6.5,0.01,3.4,1.38,3.92,"Leite & Petrere, 2006",Sudeste,SE
+F. paulensis,208,50,81.33167001,1.34,,,,,19.8,90,,2,6.8,1.9,8.7,0.08,3,1.17,4.03,"Leite & Petrere, 2006",Sudeste,SE
+F. paulensis,250,55,75,,,,,,,,,2,,,,,,,,"Haimovici & Mendonça, 1996",Lagoa dos patos/RS,S
+F. brasiliensis,201.4,50.35,60.3,1.7,,,,,,,-0.56,2.7,,,,,,,,"Salvati, 2017",Cananeia/SP,SE
+F. paulensis,194.4,48.6,58.32,2.1,,,,,,,-0.22,2.2,,,,,,,,"Salvati, 2017",Cananeia/SP,SE
+F. brasiliensis,,,,,,,,,,,,,7.1,2.2,9.33,,,,,"Villela et al., 1997",Rio de janeiro/Sudeste,SE
+F. paulensis,220.4,43.5,92.5,,,,75,16.5,,,,2.5,,,,,,,,"D'incao, 1984",Lagoa dos patos/RS,S
+F. paulensis,,,,,,,,,,,,,5.8,1.44,7.3,,,,,"D'Incao, 1983",Lagoa dos patos/RS,S
+F. paulensis,190,38,62.7,,,,,,,,,,,,,0.0107,2.88,,,"Melo, 1973",Santos/SP,SE
+F. paulensis,,,,,,,,,,,,,,,,0.0018,2.74,,,"Zenker & Agnes, 1977",Sudeste,SE
+F. paulensis,143.6,31.6,19.61022753,,,,,,,,,,,,,0.00044,3.1,,,"D'Incao & Calazans, 1978",Lagoa dos patos/RS,S
+F. paulensis,,,,,,,,,,,,,,,,0.0135,2.74,,,"D'Incao & Calazans, 1978",Lagoa de conceição/RS,S
+F. brasiliensis,,,,,,,,,,,,,,,,0.01,2.86,,,"Freitas et al., 2011",Santa Catarina/Sul,S
+F. paulensis,,,,,,,,,11.1,44.5,,,,,,0.05,2.33,,,"Fernandes, 2012",São Paulo/SE,SE
+F. brasiliensis,,,,,,,,,12,48.1,,,,,,0.41,2.62,,,"Fernandes, 2012",São Paulo/SE,SE
+F. paulensis,,,,,,,,,,,,,,,,0.0088,2.91,,,"Freitas et al., 2011",Santa Catarina/Sul,S
+F. paulensis,,,49,1.36,,,,,,,,,,,,,,,,"Peixoto et al., 2005",Rio Grande/ Sul,S
+F. paulensis,,,,,,,,,19.3,88,,,,,,,,,,"Rezende et al., 2015",Lagoa dos patos/RS,S
+F. brasiliensis,,,,,30.4,152,83.2,20.8,,,,,,,,,,,,"Costa et al., 2008",Ubatuba/SP,SE
+F. paulensis,,,,,31.6,158,68,17.9,,,,,,,,,,,,"Costa et al., 2008",Ubatuba/SP,SE
+F. paulensis,,,,,,,75,15,,,,,,,,,,,,"D'incao, 1991",Lagoa dos patos/RS,S
+F. brasiliensis,,,,,30.4,152,,,,,,,,,,,,,,"D'incao, 1995",Santa Catarina/Sul,S
+F. paulensis,,,,,31.6,158,,,,,,,,,,,,,,"D'incao, 1995",Santa Catarina/Sul,S
+X. kroyeri,120.0234591,26,11.05389882,1.2,16,74.02529899,120.0234591,26,13,60.22585097,,,,,,0.0009,2.89,,,"Carvalho, 2015",Pará/Norte,N
+X. kroyeri,116.3436063,25.2,10.09927208,0.64,,,,,,,,2.5,3.7,0.6,4.3,,,,,"Fernandes et al., 2014",Sudeste,SE
+X. kroyeri,137.3187672,29.76,16.33208638,2.5,12.25,56.77598896,,,,,-0.31,1.85,,,,,,,,"Silva et al., 2019",Sergipe/NE,NE
+X. kroyeri,,,,,,,,,,,,,,,1.24,,,,,"Paiva, 1996",Sul,S
+X. kroyeri,131.9369825,28.59,14.54458783,2.55,15.65,72.41536339,,,17.25,79.775069,,1.7,,,,,,,,"Santos et al., 1969",São Paulo/SE,SE
+X. kroyeri,143.0225391,31,18.37713495,1.12,,,,,,,,,,,,,,,,"Neiva & Wise, 1967",Santos/SP,SE
+X. kroyeri,,,,,,,,,,,,,2.9,3.38,6.28,,,,,"Santos, 1997",Nordeste,NE
+X. kroyeri,,,,,18.2,84.1448942,58.53,11.7,11.64,53.9701012,,,,0.6,,,,,,"Graça-Lopes, 2007",São Paulo/SE,SE
+X. kroyeri,136.1228151,29.5,15.92311881,2.85,,,,,,,-0.14,1.64,,,,,,,,"Grabowski et al., 2014",Sul,S
+X. kroyeri,131.0630175,28.4,14.2669951,2.73,17.7,88.5,,,,,,1.39,,,,,,,,"Heckler et al., 2013",São Paulo/SE,SE
+X. kroyeri,136.1228151,29.5,15.92311881,2.83,,,,,,,,1.64,,,,,,,,"Campos et al., 2011",Santa Catarina/Sul,S
+X. kroyeri,121.4034039,26.3,11.4265368,1.75,18.6,85.98482061,,,17.5,80.925023,,1.34,6.8,1.98,8.78,0.0069,2.91,0.2174,0.0931,"Lopes et al., 2014",Pernambuco/Nordeste,NE
+X. kroyeri,65.74563017,14.2,14.5,0.57,,,,,,,,,,,,,,,,"Branco et al., 1994",Paraná/Sul,S
+X. kroyeri,70.80542778,15.3,13.2,0.35,15.65,78.25,,,16.8,84.2,,1.71,,,,,,,,"Santos, 2014",Baía de santos/SP,SE
+X. kroyeri,62.52575897,13.5,9.23,0.58,,,,,,,,,,,,,,,,"Amado, 1978",Paraná/Sul,S
+X. kroyeri,74.02529899,16,15.09,0.22,,,,,,,,,,,,,,,,"Nascimento & Poli, 1986",Baía de tijucas/SC,S
+X. kroyeri,,,,,13,65,,,,,,,,,,,,,,"Sahm, 2011",São Paulo/SE,SE
+X. kroyeri,,,,,13,60.22585097,,,,,,,,,,,,,,"Almeida et al., 2012",Ubatuba/SP,SE
+X. kroyeri,,,,,16,74.02529899,,,,,,,,,,,,,,"Martinelli, 2005",Norte,N
+X. kroyeri,,,,,12.6,58.38592456,,,,,,,,,,,,,,"Eutrópio et al., 2013",Espírito santo/Sudeste,SE
+X. kroyeri,160,35.4,16,2.7,12.55,62.5,,,,,,1.75,,,,0.0012,2.72,,,"Guimarães, 2009",Corumbau/BA,NE
+X. kroyeri,130.6030359,28.3,14.12229594,0.28,16.8,77.70515179,,,,,,,,,,,,,,"Branco, 2005",Santa catarina/Sul,S
+X. kroyeri,114.9636615,24.9,9.755704174,,15.5,71.72539098,,,,,-0.23,,,,,,,,,"Branco et al., 1999",Itajaí/SC,S
+X. kroyeri,149.0022999,32.3,20.69368333,2.7,15.1,69.88546458,,,,,-0.24,1.73,,,,,,,,"Castilho et al., 2015",Ubatuba/SP,SE
+X. kroyeri,,,,,14.5,67.12557498,51.02621895,11,17.5,80.925023,,,,,,,,,,"Santos & Silva, 2008",BAHIA/NE,NE
+X. kroyeri,155.9020239,33.8,23.59455404,1.16,,,60.22585097,13,,,,,,,,,,,,"Santos, 1997",Nordeste,NE
+X. kroyeri,,,,,14.2,65.74563017,,,,,,,,,,,,,,"Santos & Freitas, 2006",piaçabuçu/ AL,NE
+X. kroyeri,146.2424103,31.7,19.60215312,1.16,,,,,,,,2.5,,,,,,,,"Rodrigues et al., 2015",barra do sul/SC,S
+X. kroyeri,125.5432383,27.2,12.59350567,1.2,,,,,,,,,,,,,,,,"Flores-Hernandez et al., 2006",Golfo do México,
+X. kroyeri,,,,,,,60.22585097,13,,,,,,,,,,,,"Oliveira et al., 1990",Pernambuco/Nordeste,NE
+X. kroyeri,130.1430543,28.2,13.97855992,1.79,17,78.625115,,,,,,2.65,,,,0.000002,3.17,,,"Fernandes et al., 2011",Rio de janeiro/Sudeste,SE
+X. kroyeri,,,,,19.8,91.50459982,,,,,,,,,,,,,,"Coelho & Santos, 1993",tamandaré/ PE,NE
+X. kroyeri,,,,,12.5,57.92594296,,,,,,,,,,,,,,"Santos, 2000",Alagoas/ PE,NE
+X. kroyeri,150.3822447,32.6,21.25403413,0.87,13.8,63.90570377,41.82658694,9,,,,2.5,,,,,,,,"Santos et al., 2000",Caravelas/BA,NE
+X. kroyeri,147.6223551,32,20.14308321,1.6,14.3,66.20561178,,,,,,2.85,,,8.59,0.0015,2.65,,,"Reis et al., 2019",Sergipe/NE,NE
+X. kroyeri,,,,,,,85.52483901,18.5,,,,,,,,,,,,"Neiva & Wise, 1963",Santos/SP,SE
+X. kroyeri,,,,,13.5,62.52575897,,,,,,,,,,,,,,"Santos & Freitas, 2006",Jequia/AL,NE
+X. kroyeri,,,,,13.6,62.98574057,,,,,,,,,,,,,,"Santos & Freitas, 2002",Pitimbu/PB,NE
+L. schmitti,,,,,15.8,162.583188,,,,,,,,,,0.0113,2.24,,,"Santos et al., 2008",São paulo/SE,SE
+L. schmitti,,,,,22,110,,,,,,,,,,,,,,"Craveiro et al., 2019",Pernambuco/Nordeste,NE
+L. schmitti,162.583188,47,62.4,1.1,,,,,,,,1.63,2.15,1.6,3.75,,,0.3874,0.2867,"Silva et al., 2019",Pernambuco/Nordeste,NE
+L. schmitti,,,,,28.4,142,,,,,,,,,,,,,,"Peixoto et al., 2018",Pernambuco/Nordeste,NE
+L. schmitti,122.1227764,35.4,25.9,1.3,27,135,90,31,13,65,,,,,,0.0007,3.01,,,"Carvalho, 2015",Pará/Norte,N
+L. schmitti,,,,,17.3,86.5,,,,,,,,,,,,,,"Santos & Freitas, 2002",Pitimbu/PB,NE
+L. schmitti,,,,,26.4,120,,,,,,,,,,,,,,"Martinelli, 2005",Norte,N
+L. schmitti,,,,,17.7,88.5,,,,,,,,,,,,,,"Santos et al., 2004",sirinhaém (PE)/NE,NE
+L. schmitti,,,,,,,,,17,85,,,,,,,,,,"Santos & Freitas, 2004",Lagoa Papari/ RN,NE
+L. schmitti,,,,,,,72,16,20,100,,,,,,,,,,"Santos et al., 2004",Nordeste,NE
+L. schmitti,118.6,35.63,41.3,2.21,18.89,94,,,,,-0.23,2.1,,,,,,,,"Santos et al., 2020",Sergipe/NE,NE
+L. schmitti,154.560865,44.7,56,1.36,,,,,,,,2.5,,,,,,,,"Santos et al., 2006",Bahia Formosa/RN,NE
+L. schmitti,151.4216952,43.8,53.7,1.43,17.3,86.5,,,,,,2.5,,,,,,,,"Santos et al., 2006",Lucena/PB,NE
+L. schmitti,158.3976282,45.8,59.3,1.36,,,,,,,,2.5,,,,,,,,"Santos et al., 2006",sirinhaém (PE)/NE,NE
+L. schmitti,160.1416114,46.3,60.8,1.52,,,,,,,,2.5,,,,,,,,"Santos, 2002",Alagoas/ Sergipe,NE
+L. schmitti,168.8615277,48.8,68.4,1.5,17.3,86.5,,,,,,2.5,,,,,,,,"Coelho & Santos, 1993",tamandaré/ PE,NE
+L. schmitti,166.0711545,48,64,2,,,,,,,0.89,2.18,,,,,,,,"Miazaki et al., 2018",São Paulo/SE,SE
+L. schmitti,,,,,15.8,79,,,,,,,,,,,,,,"Santos, 2007",São paulo/SE,SE
+L. schmitti,,,,,17.7,88.5,,,,,,,,,,,,,,"Santos et al., 2004",Baía Formosa/RN,NE
+L. schmitti,,,,,17.7,88.5,,,,,,,,,,,,,,"Santos et al., 2004",sirinhaém (PE)/NE,NE
+L. schmitti,152.4680851,44.1,54.25,2.15,,,68,15,22,110,-0.29,2.15,,,,,,,,"Lopes, 2012",Baía de santos/SP,SE
+L. schmitti,,,,,20.3,101.5,,,,,,,,,,,,,,"Coelho & Santos, 1993",tamandaré/ PE,NE
+L. schmitti,,,,,15.52,77.6,,,,,,,,,,,,,,"Machado et al., 2009",sul,S
+L. schmitti,211.4147192,61,113,1.09,,,,,,,-0.0465,,,2.04,,,,,,"Pasquier & Stotz, 1999",Venezuela,
+L. schmitti,222.5762121,64.2,126,1.5,,,60,13.2,,,-0.0205,,7.16,2.04,9.2,,,,,"Andrade & Stotz, 1999",Venezuela,
+L. schmitti,125.9595396,36.5,35.7,1.8,,,,,,,,,,,,,,,,"Sangronis, 2001",Venezuela,
+L. schmitti,201.5,40.3,80.4,2.2,25.7,116.8,,,,,,2,,,,,,,,"Barioto, 2017",Cananeia/SP,SE
+L. schmitti,229.9009418,66.3,110.5,1.62,,,,,,,,2.83,4.09,1.92,6,0.0077,2.99,,,"Carvalho, 2013",Rio de janeiro/Sudeste,SE
+L. schmitti,,,,1.56,,,,,16,80,,,,0.65,,,,,,"Colindres, 2006",Nicaragua,
+L. schmitti,,,,1.56,,,,,20.4,102,,,,0.65,,,,,,"Colindres, 2006",Nicaragua,
+L. schmitti,,,,,,,,,,,,,4.14,3.6,7.74,,,,,"Diaz et al., 2014",Venezuela,
+L. schmitti,,,,,,,,,,,,,,,,0.00002,2.96,,,"Luvesuto, 2006",Rio Grande do Norte,NE
+L. schmitti,167.2221835,48.33,64.4,1.61,26.5,132.5,,,,,0.027,,3.18,2.31,5.49,,,,,"Gassman & Rojas, 2016",Tacarigua/Venezuela,
